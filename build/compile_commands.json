@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/mikey/Scanner/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -o CMakeFiles/Scanner.dir/main.cpp.o -c /home/mikey/Scanner/main.cpp",
+  "file": "/home/mikey/Scanner/main.cpp"
+},
+{
+  "directory": "/home/mikey/Scanner/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -o CMakeFiles/Scanner.dir/UART.cpp.o -c /home/mikey/Scanner/UART.cpp",
+  "file": "/home/mikey/Scanner/UART.cpp"
+},
+{
+  "directory": "/home/mikey/Scanner/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -o CMakeFiles/Scanner.dir/Scanner.cpp.o -c /home/mikey/Scanner/Scanner.cpp",
+  "file": "/home/mikey/Scanner/Scanner.cpp"
+}
+]

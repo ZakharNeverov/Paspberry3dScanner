@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -rdynamic CMakeFiles/Scanner.dir/main.cpp.o CMakeFiles/Scanner.dir/UART.cpp.o CMakeFiles/Scanner.dir/Scanner.cpp.o -o Scanner  -L/usr/lib/aarch64-linux-gnu -lserial -lpigpio 

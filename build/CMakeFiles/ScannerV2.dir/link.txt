@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -rdynamic CMakeFiles/ScannerV2.dir/main.cpp.o -o ScannerV2 
